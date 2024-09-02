@@ -1,0 +1,9 @@
+# ninja log v5
+25	651	7470047726556054	CMakeFiles/driver_example.dir/driver_files/src/Driver/VRDriver.cpp.obj	75c079e185322814
+20	916	7470047729196445	CMakeFiles/driver_example.dir/driver_files/src/Driver/TrackingReferenceDevice.cpp.obj	3c2072eda08fef74
+16	933	7470047729371618	CMakeFiles/driver_example.dir/driver_files/src/Driver/TrackerDevice.cpp.obj	152751a1ab78fca8
+6	962	7470047729651648	CMakeFiles/driver_example.dir/driver_files/src/Driver/ControllerDevice.cpp.obj	a10a9799abb6c977
+11	967	7470047729701642	CMakeFiles/driver_example.dir/driver_files/src/Driver/HMDDevice.cpp.obj	35ab7b3d7bf8f553
+29	1092	7470047730957538	CMakeFiles/driver_example.dir/driver_files/src/Native/DriverFactory.cpp.obj	b159799c6c31ffa
+1092	2296	7470047736575932	driver_example.dll	37f60965e58b6d7b
+1092	2296	7470047736575932	driver_example.lib	37f60965e58b6d7b

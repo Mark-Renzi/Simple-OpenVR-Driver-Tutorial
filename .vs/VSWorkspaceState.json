@@ -1,0 +1,19 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\driver_files",
+    "\\driver_files\\src",
+    "\\driver_files\\src\\Driver",
+    "\\driver_files\\src\\Native",
+    "\\libraries\\linalg",
+    "\\out"
+  ],
+  "SelectedNode": "\\out\\build",
+  "PreviewInSolutionExplorer": false
+}

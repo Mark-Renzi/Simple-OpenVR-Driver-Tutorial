@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/Mark/Documents/GitHub/Simple-OpenVR-Driver-Tutorial/out/build/x64-Debug/CMakeFiles/driver_example.dir/embed.manifest"
